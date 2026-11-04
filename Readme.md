@@ -14,3 +14,4 @@ Technologies:
 - Bootstrap
 - Bootstrap Icons
 - Typescript
+- Unit tests
